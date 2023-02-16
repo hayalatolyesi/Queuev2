@@ -1,0 +1,18 @@
+{
+    "name": "erdal/responder",
+    "description": "Library available to send output",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Erdal\\Responder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "erdal-eroglu",
+            "email": "erdal.eroglu@gmail.com"
+        }
+    ],
+    "require": {}
+}
